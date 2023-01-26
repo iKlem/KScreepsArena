@@ -1,0 +1,13 @@
+lockfileVersion: 5.4
+
+specifiers:
+  '@types/screeps-arena': ^0.0.1
+
+dependencies:
+  '@types/screeps-arena': 0.0.1
+
+packages:
+
+  /@types/screeps-arena/0.0.1:
+    resolution: {integrity: sha512-add9EMxpCA2WwyXLpIoqdNFNZgt1Nx3kG6PZd3l03/Y9wzFQ1Rtwb/+66+bnRPeeNunOYet2PU5iHme7n+9ywA==}
+    dev: false

@@ -1,0 +1,14 @@
+{
+	"compilerOptions": {
+		"module": "ESNext",
+		"moduleResolution": "Node",
+		"target": "ES2020",
+		"jsx": "preserve",
+		"strictFunctionTypes": true,
+		"typeRoots": ["./node_modules/@types", "./@types", "./node_modules/@types/screeps-arena"]
+	},
+	"exclude": [
+		"node_modules",
+		"**/node_modules/*"
+	]
+}
